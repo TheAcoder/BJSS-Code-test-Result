@@ -1,0 +1,11 @@
+D:\Code\PriceBasket\PriceBasket.Test\bin\Debug\PriceBasket.Test.dll
+D:\Code\PriceBasket\PriceBasket.Test\bin\Debug\PriceBasket.Test.pdb
+D:\Code\PriceBasket\PriceBasket.Test\bin\Debug\Moq.dll
+D:\Code\PriceBasket\PriceBasket.Test\bin\Debug\PriceBasket.exe
+D:\Code\PriceBasket\PriceBasket.Test\bin\Debug\PriceBasket.pdb
+D:\Code\PriceBasket\PriceBasket.Test\bin\Debug\Moq.xml
+D:\Code\PriceBasket\PriceBasket.Test\obj\Debug\PriceBasket.Test.csprojResolveAssemblyReference.cache
+D:\Code\PriceBasket\PriceBasket.Test\obj\Debug\PriceBasket.Test.dll
+D:\Code\PriceBasket\PriceBasket.Test\obj\Debug\PriceBasket.Test.pdb
+D:\Code\PriceBasket\PriceBasket.Test\bin\Debug\PriceBasket.Test.dll.config
+D:\Code\PriceBasket\PriceBasket.Test\bin\Debug\TechTalk.SpecFlow.dll

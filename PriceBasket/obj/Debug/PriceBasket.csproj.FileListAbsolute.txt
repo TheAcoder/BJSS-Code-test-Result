@@ -1,0 +1,6 @@
+D:\Code\PriceBasket\PriceBasket\bin\Debug\PriceBasket.exe.config
+D:\Code\PriceBasket\PriceBasket\bin\Debug\PriceBasket.exe
+D:\Code\PriceBasket\PriceBasket\bin\Debug\PriceBasket.pdb
+D:\Code\PriceBasket\PriceBasket\obj\Debug\PriceBasket.exe
+D:\Code\PriceBasket\PriceBasket\obj\Debug\PriceBasket.pdb
+D:\Code\PriceBasket\PriceBasket\obj\Debug\PriceBasket.csprojResolveAssemblyReference.cache
